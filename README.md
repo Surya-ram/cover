@@ -85,7 +85,8 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![image](out1.png)
+![image](https://github.com/Surya-ram/cover/assets/122000311/40696b4f-f5e9-4f58-85d8-bdc9ce1aa0d4)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
